@@ -3,8 +3,7 @@
 ## PREAMBLE
 
 
-The working class and the employing class have nothing in common. There can be no peace so long as hunger and want are found among
-millions of the working people and the few, who make up the employing class, have all the good things of life.
+The working class and the employing class have nothing in common. There can be no peace so long as hunger and want are found among millions of the working people and the few, who make up the employing class, have all the good things of life.
 
 Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the means of production, abolish the wage system, and live in harmony with the earth.
 
