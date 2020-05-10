@@ -1,4 +1,4 @@
-## ARTICLE I
+# ARTICLE I
 
 ## Name and Structure
 
