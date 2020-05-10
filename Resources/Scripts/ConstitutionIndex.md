@@ -1,0 +1,17 @@
+#merge
+/var/www/IWW-Docs/Constitution/TOC.md
+/var/www/IWW-Docs/Constitution/Preamble.md
+/var/www/IWW-Docs/Constitution/ArticleI.md
+/var/www/IWW-Docs/Constitution/ArticleII.md
+/var/www/IWW-Docs/Constitution/ArticleIII.md
+/var/www/IWW-Docs/Constitution/ArticleIV.md
+/var/www/IWW-Docs/Constitution/ArticleV.md
+/var/www/IWW-Docs/Constitution/ArticleVI.md
+/var/www/IWW-Docs/Constitution/ArticleVII.md
+/var/www/IWW-Docs/Constitution/ArticleVIII.md
+/var/www/IWW-Docs/Constitution/ArticleIX.md
+/var/www/IWW-Docs/Constitution/ArticleX.md
+/var/www/IWW-Docs/Constitution/ArticleXI.md
+/var/www/IWW-Docs/Constitution/ArticleXII.md
+/var/www/IWW-Docs/Constitution/ArticleXIII.md
+/var/www/IWW-Docs/Constitution/ArticleXIV.md
