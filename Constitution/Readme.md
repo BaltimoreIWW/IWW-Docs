@@ -1,4 +1,6 @@
-# PREAMBLE, CONSTITUTION, & GENERAL BYLAWS OF THE INDUSTRIAL WORKERS OF THE WORLD
+# PREAMBLE & CONSTITUTION OF THE INDUSTRIAL WORKERS OF THE WORLD
+
+<img src="/Resources/logo_black.jpg" align="middle" height="400">
 
 As Amended Through January 1, 2020
 
