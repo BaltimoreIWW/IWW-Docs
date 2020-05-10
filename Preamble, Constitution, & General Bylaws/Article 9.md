@@ -1,0 +1,62 @@
+# ARTICLE IX
+
+## Amendments, Etc.
+
+### Section 1
+
+<ol type="a">
+  <li>All proposed amendments to the Constitution and Bylaws shall clearly state the article, section and paragraph to which the amendment applies. New articles and sections shall be so stated. Each clause to be amended shall be on a separate sheet.
+  </li>
+
+## Conflicting Parts
+
+  <li>All parts of the Constitution conflicting with amendments ratified by a referendum vote are hereby declared null and void.
+  </li>
+</ol>
+
+## Referenda
+
+### Section 2
+
+<ol type="a">
+  <li>A referendum on any organization question, including constitutional amendments, may be initiated by the General Executive Board, or by a petition of 5% of members not in bad standing. The number of members at the beginning of each calendar year will be used for the entire year in determining total membership.
+  </li>
+  <li>All properly submitted referendum items shall be included on a ballot to be issued each year no later than October 15. Notification of all referendum items, including the full text of all questions to be voted upon and the names of all nominees for General Administration office who have not declined, shall be provided to all members at least 30 days prior to the issuance of the ballot. Members shall be notified based on their preferred form of GOB mailing. The notice shall specify the deadline for submitting discussion of the referendum items for publication in the GOB. Ballots shall be sent to all members in good standing and shall be open for voting for not less than 30 days and not more than 45 days. The deadline for receipt of ballots at General Headquarters shall be printed on the ballot, but in no event shall be later than November 30. Ballots shall be counted and the results released no later than midnight December 1.
+  </li>
+  <li>Ballots issued by affiliated Regional Organizing Committees on union-wide referenda may be counted by a Regional Organizing Committee ballot committee. The ROC ballot committee must then communicate the results via secured correspondence to the union-wide ballot committee at the General Headquarters. The ROC results shall be opened at the same time as all individual ballots. The tallies of individual ROCs may not be announced before the union-wide tally.
+  </li>
+  <li>The returns of the referendum shall remain in General Headquarters in sealed envelopes until the ballot committee meets. The ballot committee shall meet immediately on expiration of the time set for the return of ballots. The General Secretary-Treasurer shall notify the body initiating referendum of the date set for count of ballots.
+  </li>
+  <li>The ballot committee to count the votes on the referendum shall be composed as follows: Three members in continuous good standing for 1 year prior to their election to the committee shall be elected by the chartered branch in the city in which Headquarters is located no later than ten (10) days before the ballots are to be counted. The chartered branch shall also elect an alternate. If no ballot committee is elected by this time, or if GHQ is located in a city without a chartered branch, then the GEB shall appoint the ballot committee to be composed of three members and an alternate from the chartered branch nearest to GHQ. The ballot committee may appoint other members to assist in the ballot count. In reporting through email and the monthly bulletin the returns of referenda and elections, the General Secretary-Treasurer shall give the names of the ballot committee together with their card numbers and the branch and Industrial Union of which they are members.
+  </li>
+  <li>The Industrial Union or body initiating a referendum shall pay the expenses of its own delegates on the ballot committee unless the referendum is carried, in which event the expenses shall be borne by the general organization.
+  </li>
+  <li>Chartered branches, industrial unions or groups of branches or industrial unions not affiliated with a Regional Organizing Committee but outside of the country where Headquarters resides, but within the jurisdiction of the North American Regional Administration, may elect a ballot committee with prior approval of the GEB, in order to ensure no member in good standing is disenfranchised due to delayed ballots, customs or other significant barriers to referendum participation. Such a ballot committee may print and distribute individually numbered ballots to members in good standing as required by circumstances. Ballots must be opened, counted and the results reported no later than midnight December 1. The tallies may not be released before the union-wide results are announced.
+  </li>
+  <li>Ballots shall be prepared in such a way as to assure complete secrecy in voting and shall be in duplicate form to allow the member to retain a record of their vote. Ballots shall contain no information identifying the ballot with the member who sent it. All information pertaining to the member’s name and standing will be entered onto the voucher envelope. Once the ballot is approved by the ballot committee, it will be secured separately from the member’s identifying information.
+  
+All ballots must be numbered. Ballots not numbered or from members in bad standing will not be considered valid ballots.
+
+Any members whose ballots have been invalidated shall be notified by first class mail within seven (7) days of the decision by the Ballot Committee, explaining the reason their ballot was invalidated.
+  </li>
+  <li>All constitutional changes ratified by a general referendum ballot shall take effect January 1, unless otherwise decided by the General Convention.
+  </li>
+  <li>Any part of this General Constitution may be suspended or set aside for 1 year if so approved by a general referendum, initiated as provided for in Section 2(a) of this Article.
+  </li>
+  <li>All proposed constitutional amendments which remove constitutional language to a section or sections of the Constitution shall list the section or sections to be revised in addition to separately listing the proposed changes. The referendum ballot shall list and clearly label the section or sections to be revised as well as the proposed changes.
+  </li>
+  <li>Electronic Balloting (available via phone & computer) can be used for conducting Referendum as long as a member’s secret ballot cannot be compromised and a ballot cannot be traced back to an individual member, and the service used for electronic balloting has integrity of security.
+  
+Electronic balloting instructions and ballot number will be mailed to members along with the Referendum GOB and Supplement in compliance with the timeline in Article IX of the IWW Constitution with all sections of Article IX of the IWW Constitution in place.
+
+All members retain the ability to opt out of electronic balloting and may then receive paper ballots.
+  </li>
+</ol>
+
+## Recall
+
+### Section 3
+
+The General Administration Officials shall be subject to recall upon a referendum, initiated as provided for in Section 2(a), Article IX. No later than three days following a receipt of a petition or motion for recall, the General Administration shall notify all chartered Administrations and Branches of same, and specify the date by which members can submit arguments concerning the question for publication in the GOB accompanying the ballot on recall.
+
+Ballots shall be issued no later than 30 days following receipt, and shall be issued in accordance with the provisions of Article IX, Section 2. Officers shall continue in office during the recall referendum.
