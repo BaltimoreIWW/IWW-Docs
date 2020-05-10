@@ -6,7 +6,7 @@
 
 #### Organized July 7, 1905
 
-## Table of Contents
+## Table of Contents (Need to finish this)
 
 * [Preamble](/Constitution/Preamble.md)
 * [Article I](/Constitution/Article%201.md#article-i)
