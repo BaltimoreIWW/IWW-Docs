@@ -41,14 +41,20 @@ all matters concerning the entire membership of the IWW shall be settled by a re
 endum.
 </li>
   <li>The Departments shall be designated as follows:
-  <ol type="1">
-    <li>Department of Agriculture, Land, Fisheries, and Water Products</li>
-    <li>Department of Mining</li>
-    <li>Department of Construction</li>
-    <li>Department of Manufacturing and General Production</li>
-    <li>Department of Transportation and Communication</li>
-    <li>Department of Public Service</li>
-    </ol>
+  <ol>
+    <li>Department of Agriculture, Land, Fisheries, and Water Products
+    </li>
+    <li>Department of Mining
+    </li>
+    <li>Department of Construction
+    </li>
+    <li>Department of Manufacturing and General Production
+    </li>
+    <li>Department of Transportation and Communication
+    </li>
+    <li>Department of Public Service
+    </li>
+  </ol>
 </li>
 </ol>
 
