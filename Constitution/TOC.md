@@ -2,9 +2,9 @@
 
 <img src="/Resources/Images/logo_black.jpg" align="middle" height="400">
 
-<p style="text-align:center">As Amended Through January 1, 2020</p>
+#### As Amended Through January 1, 2020
 
-<p style="text-align:center">Organized July 7, 1905</p>
+#### Organized July 7, 1905
 
 ## Table of Contents
 
