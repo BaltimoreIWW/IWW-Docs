@@ -1,39 +1,43 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
 body {
-  background-color: white;
-  margin-left: 45rem;
-  margin-right: 45rem;
+  display: table-cell;
+  vertical-align: middle;
+  width: 900px;
 }
 
 h1 {
-  color: black;
   margin-left: 20px;
   margin-right: 20px;
   text-align: center;
 }
 
 h2 {
-  color: black;
   margin-left: 20px;
   margin-right: 20px;
   text-align: center;
 }
 
 h3 {
-  color: black;
   margin-left: 20px;
   margin-right: 20px;
   text-align: left;
 }
 
 h4 {
-  color: black;
   margin-left: 20px;
   margin-right: 20px;
   text-align: center;
 }
 
 p {
-  color: black;
   margin-left: 20px;
   margin-right: 20px;
   text-align: left;
