@@ -4,36 +4,44 @@ body {
 
 h1 {
   color: black;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 600px;
+  margin-right: 600px;
   text-align: center;
 }
 
 h2 {
   color: black;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 600px;
+  margin-right: 600px;
   text-align: center;
 }
 
 h3 {
   color: black;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 600px;
+  margin-right: 600px;;
   text-align: left;
 }
 
 h4 {
   color: black;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 600px;
+  margin-right: 600px;
   text-align: center;
 }
 
 p {
   color: black;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 600px;
+  margin-right: 600px;
+  text-align: left;
+  word-wrap: break-word
+}
+
+ol {
+  color: black;
+  margin-left: 600px;
+  margin-right: 600px;
   text-align: left;
   word-wrap: break-word
 }
