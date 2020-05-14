@@ -1,4 +1,6 @@
-# PREAMBLE & CONSTITUTION OF THE INDUSTRIAL WORKERS OF THE WORLD
+# PREAMBLE & CONSTITUTION OF
+
+# THE INDUSTRIAL WORKERS OF THE WORLD
 
 ## <img src="/Resources/Images/logo_black.jpg" align="middle" height="400">
 
