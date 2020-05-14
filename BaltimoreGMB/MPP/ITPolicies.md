@@ -1,5 +1,51 @@
-## ARTICLE I : PURPOSE
+## IT POLICIES
 
-### Section 1
+### Section 1 : IT Committee Administrative policies
 
-The Baltimore IWW constitutes a General Membership Branch with all the rights and responsibilities entitled by the IWW Constitution. Membership shall be by voluntary association of IWW members in good standing. A copy of these bylaws shall be made available to all Baltimore IWW members, and any other IWW members upon request.
+IT Committee must consist of a minimum of two members in good standing.
+
+Admin credentials/access for branch-wide technology resources must be held by two or more IT Committee members at all times. Credentials must be kept secure and private.
+
+Members of the IT Committee may be recalled by a majority vote of the GMB.
+
+### Section 2 : Policies for all communications platforms
+
+Only members in good standing shall be eligible for access to communications platforms (with exceptions for Riot as laid out in the Riot section)
+
+Member access shall be deactivated when they fall into bad standing (includes the 2-month grace period as per our bylaws) or when they violate the policies laid out here.
+
+Users are to keep their login credentials secure.
+
+Users are prohibited from sharing screenshots or other documentation of communications outside of (1) Baltimore GMB membership, (2) for the purposes of filing an official charge/complaint as laid out in the IWW Constitution, or (3) to be submitted to the IT Committee as evidence of violation of IWW policies.
+
+Code names must be used in discussions of non-public campaigns. If unsure whether a campaign is public, assume it is not.
+
+Devices including but not limited to phones, laptops, and desktop computers used to access Riot and Baltimore GMB file storage must be password protected. Device encryption is encouraged. Members should endeavor to protect devices from physical attacks/seizure.
+
+It should be assumed that all data and communications that take place over Baltimore GMB platforms are not private.
+
+Discussion of any illegal activities on Union communications platforms is prohibited and will be removed.
+
+Communications platforms are subject to the Baltimore GMB's Safer Spaces policy as outlined in Article IX of the bylaws as of December 2018.
+
+The membership is obligated to report violations of the above policies to the IT Committee. The IT Committee will temporarily suspend accounts it finds to be in violation until the adjournment of the next GMB business meeting, during which the IT Committee shall report on the matter, leaving further actions to be taken at the discretion of the GMB.
+
+### Section 3 : Email
+
+Announcements and communications that should be accessible to all members of the GMB shall be sent to the general membership listserv. Riot, texts, or other (non-email) platforms are not sufficient for communications intended for the entire membership.
+Other listservs may be created for internal or external communications at the discretion of relevant committees and campaigns. Requests for the creation of additional listservs should be submitted to the IT committee. Creation of these listservs should be announced to the GMB.
+
+The main Baltimore IWW email account should be monitored only by the Communications Officer, the Branch Secretary, and others delegated at the discretion of the GMB, all of whom shall possess the credentials for that account.
+Email aliases on the Baltimore GMB domain (i.e., alias@baltimoreiww.org) shall be available to all official committees and shall be created by the IT Committee on request.
+
+### Section 4 : Riot
+
+The Riot instant messaging platform is intended to serve as a coordination and planning medium for IWW activities. Announcements, meeting minutes, or other information intended for the membership of the Baltimore GMB in general shall be communicated using the branch email list. Though Riot is a secure end-to-end encryption messaging service, it should be assumed that any communications that take place on it are not private.
+
+Riot user accounts are to be created by the IT Committee on a by-request basis.
+
+Users may create private or public rooms according to their needs and practice moderation as they see fit, as long as it conforms to the policies of the GMB.
+
+Riot is to be hosted on a server in a non-US location by a non-US company with a clear subpoena policy.
+
+In the event of a security breach, the IT Committee may erase any or all message history and/or user accounts. Deletion of such information without just cause is grounds for removal of the IT Committee member from their position.
