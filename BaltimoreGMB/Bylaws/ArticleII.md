@@ -20,11 +20,11 @@ GMB Members attending branch meetings shall be eligible to take part in the busi
 
 Except where otherwise noted in these bylaws, meetings shall follow the rules and procedures set forth in Rusty’s Rules of Order, which shall be made available to all members. Additional exceptions to Rusty’s Rules of Order may be approved by a two-thirds vote by the members in good standing at the meeting.
 
-### Section 5 Meeting Facilitation
+### Section 5 : Meeting Facilitation
 
 Meetings shall be chaired by two co-facilitators. While one co-facilitator focuses on the agenda, the other co-facilitator shall take stack and call on participants. Rather than strictly following the order in which hands were raised, the co-facilitators shall utilize a “progressive stack”, prioritizing participants who have not spoken as often and ensuring that there are ample opportunities for women, people of color, LGBTQ people and other members of oppressed or marginalized groups to be heard. The same people should not facilitate more than two meetings in a row. New members are expected to undergo a facilitation training within 6 months of joining the branch.
 
-### Section 6 Emergency motions
+### Section 6 : Emergency motions
 
 Official branch motions will be made at the regularly scheduled monthly GMB meetings. Only if an emergency situation arises where a decision must be made before the next GMB meeting, the following requirements must be observed:
 
