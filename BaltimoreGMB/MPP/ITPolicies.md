@@ -1,0 +1,5 @@
+## ARTICLE I : PURPOSE
+
+### Section 1
+
+The Baltimore IWW constitutes a General Membership Branch with all the rights and responsibilities entitled by the IWW Constitution. Membership shall be by voluntary association of IWW members in good standing. A copy of these bylaws shall be made available to all Baltimore IWW members, and any other IWW members upon request.
