@@ -1,0 +1,12 @@
+## ARTICLE VI : CAMPAIGNS COMMITTEE
+
+### Section 1
+
+The Campaigns Committee is a subordinate body to the GMB and its decisions may be overridden by the GMB at any time. The purpose of the Campaigns Committee is to coordinate the branch’s workplace organizing campaigns. The Campaigns Committee has its own set of bylaws that govern it. These bylaws may not contradict the GMB bylaws or the IWW Constitution. Meetings of the Campaigns Committee are open to all branch members in good standing, but not to the general public. 
+### Section 2
+
+A committee of at least three (3) members will volunteer or be elected before the branch will authorize an organizing drive to proceed. This committee will be responsible for reporting to the branch and to the Campaigns Committee at each branch meeting all aspects of the organizing drive which they will oversee.
+
+### Section 3
+
+The Campaigns Committee will consist of 3 to 5 members in good standing, elected annually. The Organizing Department Liaison must be one of the aforementioned elected members.
