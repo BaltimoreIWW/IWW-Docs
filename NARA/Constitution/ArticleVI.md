@@ -1,0 +1,147 @@
+# ARTICLE VI
+
+## Conventions
+
+### Section 1
+
+<ol type="a">
+  <li>Each year, the IWW shall hold a General Convention of the Union, on or around the first full weekend of September. Nominations for the convention host site shall be made at the General Convention of the IWW or through the mail with nominations closed by the adjournment of the General Convention. Election of the convention host site shall be by general referendum ballot as provided for in Article IX, Section 2.
+  </li>
+  <li>The General Convention of the IWW shall not remain in session over 10 days. The General Executive Board shall cause an agenda to be issued to the delegates the day Convention convenes, or earlier, that specifies the time limit on each question.  All resolutions shall be provided to General Headquarters at least 90 days before the opening of the General Convention and headquarters shall include all resolutions in an issue of the GOB that shall be mailed according to the member’s preferred form of GOB mailing not less than 60 days before the General Convention is called to order to all members who are not members of Regional Organizing Committees where a working agreement may specify otherwise. No resolution not circulated in advance shall be considered by the Convention unless it is of an emergency nature and the delegates vote by a two-thirds majority to add to the agenda.
+  </li>
+</ol>
+
+### Section 2
+
+<ol type="a">
+  <li>The General Convention of the IWW is the legislative body of the union and its enactments are of legal force. Enactments concerning any and all amendments to this Constitution which the Convention may adopt are of legal force when sustained by a referendum vote of the membership. Referenda to approve changes to the Constitution shall be issued according to the provisions of Article IX Section 2.
+  </li>
+  <li>The General Convention has the power to determine the policy of the union, when sustained by a referendum vote of the membership. 
+  </li>
+  <li>The General Convention has the power to expel any member for violation of the principles, Constitution or Bylaws of the union.
+  </li>
+  <li>The General Convention shall use the current edition of Robert’s Rules of Order as standard parliamentary procedure. Convention may elect a parliamentarian to assist the chair and delegates with interpretation of rules of order.
+  </li>
+</ol>
+
+## Representation
+
+### Section 3
+
+<ol type="a">
+  <li>Representation at the General Convention of the IWW shall be by delegates from chartered branches and Industrial Unions. Each delegate shall have one vote, except as provided for in Sections 3 (f ), (g).
+  </li>
+  <li>Individual members in good standing may attend the convention, with voice but without vote and shall be seated separately from the delegates.
+  </li>
+  <li>Each chartered branch will require a minimum of 10 members to send a delegate to the General Convention, branches with between 10 and 19 members in good standing shall have one delegate, branches with between 20 and 29 members in good standing shall have two delegates, branches with between 30 and 49 members in good standing shall have three delegates, branches with between 50 and 69 members in good standing shall have four delegates, branches with between 70 and 89 members in good standing shall have five delegates, branches with between 90 and 129 members in good standing shall have six delegates, branches with more than 130 members in good standing shall have 1 more delegate for each additional 40 members.
+
+Branches may send no more than four delegates to be physically present at convention.
+
+Industrial Union delegations shall be elected by the Industrial Union subject to its bylaws; the number of delegates shall be calculated according to the number of delegates the chartered branches of the industrial union are entitled to. Representatives of Industrial Unions or Industrial Union Branches must be actively employed in the industry represented by that union; or if unemployed due to seasonal or other circumstances, actively looking for work in that industry.
+  </li>
+  <li>The expenses of delegates to the General Convention shall be wholly or partially borne by the body they represent. No delegate to the General Convention shall have any amount of their expenses paid for out of the treasury of the General Administration.
+
+Representation for IU 613 at the General Convention of the IWW shall include dele gates from chartered Inside locals. IU613 Branches will also be allowed to send proxies, including at-large members, IWW members from outside GMBs, or outside IWOC locals. IU613 branches can choose any union member who meets the criteria of eligibility laid out in Article VI ### Section 6 of the Constitution to serve as their proxy.
+  </li>
+  <li>Branches will decide the mandate for delegates and may instruct delegates to represent the full range of views of the branch. Branches will supply their delegates with written instructions.
+  
+The IU613 Branch sending delegates or proxies will decide the mandate for delegates and may instruct delegates or proxies to represent the full range of views of the body. Delegates or proxies may be supplied with written instructions.
+  </li>
+  <li>Branches may send less than the entitlement of delegates. The delegates sent may carry the votes of the delegates not sent.
+  
+IU 613 Branches may send less than the entitlement of delegates or proxies. The delegates or proxies sent may carry the votes of the delegates not sent.
+  </li>
+  <li>Branches not able to send delegates may ask another branch to carry their votes to the Convention. No branch can carry the votes of more than one other branch.
+  </li>
+  <li>Chartered branches entitled to two or more delegates with 5 or more members employed at one workplace, or 10 or more members employed in an industry, are encouraged to appoint their delegates from these workplaces or industries.
+  </li>
+</ol>
+
+## Credentials
+
+
+### Section 4
+
+<ol type="a">
+  <li>Not less than 60 days before the start of the General Convention, the General Secretary-Treasurer shall send to each branch and each Industrial Union credentials in duplicate for the number of delegates they are entitled to at the Convention.
+
+The Branch Secretary and the Industrial Union Secretary shall fill out the blank credentials and return one copy to General Headquarters at least 15 days prior to the start of the Convention. The other copy shall be presented to the Committee on Credentials when the Convention assembles. If a branch is not entitled to have a delegate, General Headquarters shall send notification of this to the branch.
+
+If a branch wishes to challenge the records at GHQ, they shall contact the General Headquarters and shall provide corrections accompanied by reports, dues and documentation to the General Secretary-Treasury. Should a branch supply documentation that entitles the branch to an additional delegate(s), General Headquarters shall issue the additional credentials and the branch shall communicate to GHQ at least 15 days before the start of the Convention the names of those who have been elected to serve as delegate.
+  </li>
+</ol>
+
+## Preliminary Session
+
+### Section 5
+The General Executive Board shall draw up a list of delegates, against whom no contest has been filed at General Headquarters. The General Secretary-Treasurer shall call the convention to order and read the aforesaid list. The delegates on the said list shall proceed to form a preliminary organization by electing, with each delegate against whom no contest has been filed receiving one vote, a temporary Chairperson, a Credentials Committee, a Resolutions Committee, a Balloting and Distribution Committee, and a Planning Committee. Each committee must have a minimum of three (3) and a maximum of five (5) members. Any member in good standing of the IWW in attendance may serve on these committees, and these committees shall remain active for the duration of the convention.
+
+## Delegates’ Eligibility
+
+### Section 6
+
+<ol type="a">
+  <li>Delegates to the General Convention from chartered branches must be members of the IWW for 6 months and in continuous good standing for 60 days immediately prior to nomination, with the exception of delegates representing branches chartered less than one year prior.
+  </li>
+  <li>The general administration officials shall be delegates at large, with voice but no vote. All paid officials and employees must be off the payroll 90 days prior to the convening of the General Convention to become eligible as delegates.
+  
+Any member who has not been on the payroll 10 consecutive days in the 3 months immediately prior to the convening of the Convention, shall be eligible as a delegate.
+
+No delegate shall cast more than one vote when voting on the seating of a contested delegate or delegates. No delegate shall have more than one vote on the expulsion of a member.
+  </li>
+  <li>Delegates to the General Convention shall not serve for two consecutive terms.
+  </li>
+</ol>
+
+## Records of Delegates
+
+The Clearinghouse shall forward a complete record of each delegate elected to the General Convention of the IWW to the chairperson of the GEB and to the Secretary-Treasurer in order to facilitate the work of the Credentials Committee of the General Convention.
+
+## Joint Delegates
+
+### Section 7
+
+Two or more unions, with a total membership of 500 or less, may jointly send a delegate to the Convention, and the vote of said delegate shall be based on the representation hereinbefore provided for.
+
+## Auditing Committee
+
+### Section 8
+
+The General Convention of the IWW shall nominate an Audit Committee. The Audit Committee shall be elected in the General Referendum, consisting of 3 members and 2 alternates. General Headquarters’ books, records, and bank accounts shall be closed and reconciled by July 31 of each year.
+
+Its expenses shall be borne by the General Organization. It shall convene between the close of the fiscal year and the next convention, where it shall present its report. This report shall be published in the General Organization Bulletin.
+
+## Resolutions
+
+### Section 9
+
+<ol type="a">
+  <li>Resolutions for the General Convention shall be acted upon by their Industrial Union convention, and if the Industrial Union has no convention, then the branches acting on same must send them to their Industrial Union GEB or G.O.C. chairperson to be segregated; and each resolution shall be on a separate sheet of paper and duplicated. No resolution sent in by an individual shall be considered by the General Convention.
+  </li>
+  <li>Branches and NARA committees submitting convention resolutions shall submit a copy of the minutes of a meeting at which the resolution was adopted. These minutes will list the number of members voting who are in good standing, and the votes in favor, against, and abstaining. The submitting branch must have at least 10 members in good standing at the time that the resolution is submitted.
+  </li>
+  <li>NARA Committees may only submit resolutions pertinent to the business of the committee.
+  </li>
+  <li>If there is a question of the number of members in good standing, the Branch Secretary shall submit a delegate report, or photos of current membership cards, to verify that there are ten or more members in good standing.
+  </li>
+  <li>The General Secretary shall verify the standing of all members signing a referendum petition, or may request the GEB chair do so.
+  </li>
+  <li>Resolutions published in the GOB and official notifications by the General Administration shall include the vote totals in parentheses following the title of the resolution.
+  </li>
+  <li>No branch or NARA committee may submit more than three (3) convention resolutions.
+  </li>
+  <li>Any branch that has properly submitted a resolution may unilaterally withdraw the resolution up until the convention delegates are seated in permanent session. Once delegates are so seated, all remaining resolutions become the business of the delegates.
+  </li>
+  <li>Each resolution and amendment to the constitution or bylaws submitted to general convention shall be given three readings, each reading separated by a reasonable amount of time to allow for consideration of amendments.
+  </li>
+  <li>At the first reading, the chair shall rule on whether the resolution or amendment to the constitution or bylaws has been properly submitted and is in order. The ruling of the chair may be challenged and overturned by a simple majority of delegates. Resolutions determined to be out of order do not proceed to second reading. Resolutions proceeding to the second reading shall be referred to the resolutions committee to consider amendments.
+  </li>
+  <li>The resolutions committee shall, before the second reading of the resolution, review any amendments submitted by delegates. The resolutions committee shall assist delegates with the preparation of amendments and prioritize amendments for consideration by convention.  The resolutions committee may, at their discretion, merge, split, or amend proposed amendments for clarification and ease of consideration by the convention, in consultation with the branch delegation or representative of the committee that proposed the motion. The resolutions committee may not debate, negotiate, or otherwise attempt to make a substantive change to any resolution without the express consent of convention delegates of the Union body which authored the resolution.
+  </li>
+  <li>At the second reading stage, delegates shall vote on the amendments brought forward by the resolutions committee. Once all amendments brought forward by the resolutions committee for second reading have been considered by the convention, the resolution shall proceed to third reading.
+  </li>
+  <li>At the third reading stage, delegates shall vote on whether to adopt the resolutions. Further amendments to the resolution emanating from the floor at third reading may be considered only by a two-thirds vote of delegates present.
+  </li>
+  <li>Convention resolutions are only to appear in internal union publications (GOB, listserves, forums, etc) and not in external facing union publications (Industrial Worker, Solidaridad, iww.org, IWW social media channels, etc.)
+  </li>
+</ol>
