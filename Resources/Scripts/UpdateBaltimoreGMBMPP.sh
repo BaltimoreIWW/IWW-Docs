@@ -6,7 +6,7 @@
 cd /var/www/IWW-Docs/Resources/Scripts
 
 git pull
-mdmerge BaltimoreMPPIndex.md -o ../../BaltimoreGMB/MPP/fulltext.md
+mdmerge BaltimoreGMBMPPIndex.md -o ../../BaltimoreGMB/MPP/fulltext.md
 grip --export ../../BaltimoreGMB/MPP/fulltext.md ../../BaltimoreGMB/MPP/index.html
 sed -i '/<head>/,/<\/head>/d' ../../BaltimoreGMB/MPP/index.html
 sed -i '/fulltext.md/d' ../../BaltimoreGMB/MPP/index.html

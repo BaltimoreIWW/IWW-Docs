@@ -1,1 +1,12 @@
-#merge ../../BaltimoreGMB/Bylaws/Title.md ../../BaltimoreGMB/Bylaws/ArticleI.md ../../BaltimoreGMB/Bylaws/ArticleII.md ../../BaltimoreGMB/Bylaws/ArticleIII.md ../../BaltimoreGMB/Bylaws/ArticleIV.md ../../BaltimoreGMB/Bylaws/ArticleV.md ../../BaltimoreGMB/Bylaws/ArticleVI.md ../../BaltimoreGMB/Bylaws/ArticleVII.md ../../BaltimoreGMB/Bylaws/ArticleVIII.md ../../BaltimoreGMB/Bylaws/ArticleIX.md ../../BaltimoreGMB/Bylaws/ArticleX.md
+#merge 
+../../BaltimoreGMB/Bylaws/Title.md 
+../../BaltimoreGMB/Bylaws/ArticleI.md
+../../BaltimoreGMB/Bylaws/ArticleII.md
+../../BaltimoreGMB/Bylaws/ArticleIII.md
+../../BaltimoreGMB/Bylaws/ArticleIV.md
+../../BaltimoreGMB/Bylaws/ArticleV.md
+../../BaltimoreGMB/Bylaws/ArticleVI.md
+../../BaltimoreGMB/Bylaws/ArticleVII.md
+../../BaltimoreGMB/Bylaws/ArticleVIII.md
+../../BaltimoreGMB/Bylaws/ArticleIX.md
+../../BaltimoreGMB/Bylaws/ArticleX.md
