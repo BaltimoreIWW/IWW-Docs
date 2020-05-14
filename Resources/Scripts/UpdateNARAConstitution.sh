@@ -7,7 +7,7 @@ cd /var/www/IWW-Docs/Resources/Scripts
 
 
 git pull
-mdmerge ConstitutionIndex.md -o ../../NARA/Constitution/fulltext.md
+mdmerge NARAConstitutionIndex.md -o ../../NARA/Constitution/fulltext.md
 grip --export ../../NARA/Constitution/fulltext.md ../../NARA/Constitution/index.html
 sed -i '/<head>/,/<\/head>/d' ../../NARA/Constitution/index.html
 sed -i '/fulltext.md/d' ../../NARA/Constitution/index.html
