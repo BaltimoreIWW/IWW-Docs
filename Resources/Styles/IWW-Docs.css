@@ -4,11 +4,12 @@ html, body {
 
 html {
     margin: auto;
+    width: 900px;
 }
 
 body {
   vertical-align: middle;
-  width: 900px;
+  display: contents;
 }
 
 h1 {
