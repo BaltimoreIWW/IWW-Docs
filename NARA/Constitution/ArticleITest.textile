@@ -23,15 +23,9 @@ h3. Section 4
 #(type#a) An Industrial Department shall be composed of Industrial Unions in closely kindred industries appropriate for representation in the departmental administration, and assigned thereto by the General Executive Board of the Industrial Workers of the World.
 # An Industrial Department shall consist of two or more Industrial Unions aggregating a membership of not less than 20,000 members. The departments shall have supervision over the affairs of the Industrial Unions composing same, provided that all matters concerning the entire membership of the IWW shall be settled by a referendum.
 # The Departments shall be designated as follows:
-
-   1 - Department of Agriculture, Land, Fisheries, and Water Products
-  
-   2 - Department of Mining
-  
-   3 - Department of Construction
-  
-   4 - Department of Manufacturing and General Production
-   
-   5 - Department of Transportation and Communication
-  
-   6 - Department of Public Service
+## - Department of Agriculture, Land, Fisheries, and Water Products
+## - Department of Mining
+## - Department of Construction
+## - Department of Manufacturing and General Production 
+## - Department of Transportation and Communication
+## - Department of Public Service
