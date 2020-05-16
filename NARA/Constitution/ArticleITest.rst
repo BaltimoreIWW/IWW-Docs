@@ -37,11 +37,11 @@ Departments
 Section 4
 ~~~~~~~~~
 
-(a) An Industrial Department shall be composed of Industrial Unions in closely kindred industries appropriate for representation in the departmental administration, and assigned thereto by the General Executive Board of the Industrial Workers of the World.
+a. An Industrial Department shall be composed of Industrial Unions in closely kindred industries appropriate for representation in the departmental administration, and assigned thereto by the General Executive Board of the Industrial Workers of the World.
 
-(b) An Industrial Department shall consist of two or more Industrial Unions aggregating a membership of not less than 20,000 members. The departments shall have supervision over the affairs of the Industrial Unions composing same, provided that all matters concerning the entire membership of the IWW shall be settled by a referendum.
+b. An Industrial Department shall consist of two or more Industrial Unions aggregating a membership of not less than 20,000 members. The departments shall have supervision over the affairs of the Industrial Unions composing same, provided that all matters concerning the entire membership of the IWW shall be settled by a referendum.
 
-(c) The Departments shall be designated as follows:
+c. The Departments shall be designated as follows:
 
     1 - Department of Agriculture, Land, Fisheries, and Water Products
   
@@ -104,3 +104,7 @@ d. ROCs will negotiate with the General Administration for services and a per ca
 e. All ROCs will be required to set up an Organizing Bulletin or other method of internal discussion accessible to members within that ROC. The local Organizing Bulletins shall contain an international report from the GST and GEB which shall be provided to the ROC on a monthly basis.
 
 f. In the absence of a ROC in a region, one or more individuals may be delegated by regional members, or by the GST, for a period of one year for the purpose of organizing a ROC. Such delegates shall report at least quarterly to the GST, and may retain all dues and initiation fees collected. The default dues for members from countries outside the USA or from countries without an established Regional Organizing Committee will be 1% of take home pay, unless that creates an undue hardship on the member at the discretion of the delegate.
+
+#. Test Item
+
+#. Another Test Item
