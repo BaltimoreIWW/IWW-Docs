@@ -37,11 +37,11 @@ Departments
 Section 4
 ~~~~~~~~~
 
-a. An Industrial Department shall be composed of Industrial Unions in closely kindred industries appropriate for representation in the departmental administration, and assigned thereto by the General Executive Board of the Industrial Workers of the World.
+#. An Industrial Department shall be composed of Industrial Unions in closely kindred industries appropriate for representation in the departmental administration, and assigned thereto by the General Executive Board of the Industrial Workers of the World.
 
-b. An Industrial Department shall consist of two or more Industrial Unions aggregating a membership of not less than 20,000 members. The departments shall have supervision over the affairs of the Industrial Unions composing same, provided that all matters concerning the entire membership of the IWW shall be settled by a referendum.
+#. An Industrial Department shall consist of two or more Industrial Unions aggregating a membership of not less than 20,000 members. The departments shall have supervision over the affairs of the Industrial Unions composing same, provided that all matters concerning the entire membership of the IWW shall be settled by a referendum.
 
-c. The Departments shall be designated as follows:
+#. The Departments shall be designated as follows:
 
     1 - Department of Agriculture, Land, Fisheries, and Water Products
   
@@ -62,9 +62,9 @@ Section 5
 ~~~~~~~~~
 
 a. Industrial Unions shall be composed of actual wage workers in a given industry welded together as the particular requirements of said industry may render neces- sary.
-b. Whenever five or more Industrial Union Branches with a combined membership of no less than 100 have been attained in any industry, the General Executive Board shall issue an Industrial Union charter upon receipt of a petition signed by two-thirds of the combined membership of said Industrial Union Branches.
-c. An Industrial Union, once chartered, shall act to convene a Convention or Assembly to adopt Industrial Union Bylaws and a uniform Industrial Union dues structure, and to nominate Industrial Union officers to be elected by mail ballot of the membership of said Industrial Union.
-d. Industrial Union Branches in the same industry without a chartered Industrial Union are encouraged to establish coordinating bodies consistent with Section 5 hereof.
+#. Whenever five or more Industrial Union Branches with a combined membership of no less than 100 have been attained in any industry, the General Executive Board shall issue an Industrial Union charter upon receipt of a petition signed by two-thirds of the combined membership of said Industrial Union Branches.
+#. An Industrial Union, once chartered, shall act to convene a Convention or Assembly to adopt Industrial Union Bylaws and a uniform Industrial Union dues structure, and to nominate Industrial Union officers to be elected by mail ballot of the membership of said Industrial Union.
+#. Industrial Union Branches in the same industry without a chartered Industrial Union are encouraged to establish coordinating bodies consistent with Section 5 hereof.
 
 Section 6
 ~~~~~~~~~
@@ -95,16 +95,12 @@ Section 9
 
 a. Regional Organizing Committees are subordinate regional ###Sections of the IWW. Whenever there are 10 or more members of the IWW        in a region, they may petition the GEB to form a ROC.
 
-b. ROCs may set their dues structure, local branch sizes and elect officers. Services provided to individual ROCs shall be negotiated between the ROC and General Administration.
+#. ROCs may set their dues structure, local branch sizes and elect officers. Services provided to individual ROCs shall be negotiated between the ROC and General Administration.
 
-c. ROCs may print membership cards and issue stamps in the local language(s). The membership numbers for the cards shall be provided by General Headquarters.
+#. ROCs may print membership cards and issue stamps in the local language(s). The membership numbers for the cards shall be provided by General Headquarters.
 
-d. ROCs will negotiate with the General Administration for services and a per capita for international organizing activities.
+#. ROCs will negotiate with the General Administration for services and a per capita for international organizing activities.
 
-e. All ROCs will be required to set up an Organizing Bulletin or other method of internal discussion accessible to members within that ROC. The local Organizing Bulletins shall contain an international report from the GST and GEB which shall be provided to the ROC on a monthly basis.
+#. All ROCs will be required to set up an Organizing Bulletin or other method of internal discussion accessible to members within that ROC. The local Organizing Bulletins shall contain an international report from the GST and GEB which shall be provided to the ROC on a monthly basis.
 
-f. In the absence of a ROC in a region, one or more individuals may be delegated by regional members, or by the GST, for a period of one year for the purpose of organizing a ROC. Such delegates shall report at least quarterly to the GST, and may retain all dues and initiation fees collected. The default dues for members from countries outside the USA or from countries without an established Regional Organizing Committee will be 1% of take home pay, unless that creates an undue hardship on the member at the discretion of the delegate.
-
-#. Test Item
-
-#. Another Test Item
+#. In the absence of a ROC in a region, one or more individuals may be delegated by regional members, or by the GST, for a period of one year for the purpose of organizing a ROC. Such delegates shall report at least quarterly to the GST, and may retain all dues and initiation fees collected. The default dues for members from countries outside the USA or from countries without an established Regional Organizing Committee will be 1% of take home pay, unless that creates an undue hardship on the member at the discretion of the delegate.
