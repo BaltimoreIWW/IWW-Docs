@@ -43,17 +43,17 @@ Section 4
 
 #. The Departments shall be designated as follows:
 
-    1 - Department of Agriculture, Land, Fisheries, and Water Products
+   1 - Department of Agriculture, Land, Fisheries, and Water Products
   
-    2 - Department of Mining
+   2 - Department of Mining
   
-    3 - Department of Construction
+   3 - Department of Construction
   
-    4 - Department of Manufacturing and General Production
+   4 - Department of Manufacturing and General Production
+   
+   5 - Department of Transportation and Communication
   
-    5 - Department of Transportation and Communication
-  
-    6 - Department of Public Service
+   6 - Department of Public Service
    
 Industrial Unions
 -----------------
