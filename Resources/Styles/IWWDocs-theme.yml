@@ -3,4 +3,4 @@ heading-h1:
   align: center
   margin-bottom: 0.5in
 image:
-  border-width: 0.5in
+  border-radius: 1in
