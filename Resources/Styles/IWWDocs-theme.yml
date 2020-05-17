@@ -2,5 +2,5 @@ extends: default
 heading-h1:
   align: center
   margin-bottom: 0.5in
-img:
-  margin-bottom: 1in
+image:
+  border-width: 0.5in
