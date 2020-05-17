@@ -2,4 +2,4 @@ extends: default
 heading-h1:
   align: center
   margin-bottom: 0.5in
-  image-vertical-align: -10
+  image-vertical-align: 10
