@@ -1,4 +1,4 @@
 extends: default
 heading-h1:
   align: center
-  margin-bottom: .5in
+  margin-bottom: 1in
