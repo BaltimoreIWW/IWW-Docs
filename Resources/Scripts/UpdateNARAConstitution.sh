@@ -4,4 +4,4 @@ cat Title.asc Constitution/Preamble.asc Constitution/ArticleI.asc Constitution/A
 asciidoctor -d book Constitution/index.asc
 sed -i '7a\<link rel="shortcut icon" type="image/ico" href="../../Resources/Images/favicon.ico"/>' Constitution/index.html
 asciidoctor-pdf Constitution/index.asc
-mv index.pdf IWWConstitution.pdf
+mv Constitution/index.pdf Constitution/IWWConstitution.pdf
