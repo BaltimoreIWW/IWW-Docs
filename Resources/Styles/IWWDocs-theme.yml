@@ -1,4 +1,6 @@
 extends: default
 heading-h1:
   align: center
-  margin-bottom: 1in
+  margin-bottom: 0.5in
+image:
+  margin-bottom: 0.5in
