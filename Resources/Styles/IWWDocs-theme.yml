@@ -3,11 +3,13 @@ heading-h1:
   align: center
   margin-bottom: 0.5in
 footer:
-  columns: =25%
   recto:
     center:
       content: '{page-number}'
+    left:
+      content: "test"
   verso:
     center:
       content: '{page-number}'
-
+    left:
+      content: "test"
