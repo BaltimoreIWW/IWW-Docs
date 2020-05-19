@@ -5,12 +5,12 @@ heading-h1:
 footer:
   recto:
     left:
-      content: '{part-title}' " | " '{chapter-title}'
+      content: '{part-title} | {chapter-title}'
     right:
       content: '{page-number}'
   verso:
     left:
-      content: '{part-title}' " | " '{chapter-title}'
+      content: '{part-title} | {chapter-title}'
     right:
       content: '{page-number}'
       
