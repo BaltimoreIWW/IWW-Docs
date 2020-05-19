@@ -4,17 +4,13 @@ heading-h1:
   margin-bottom: 0.5in
 footer:
   recto:
-    center:
-      content: '{page-number}'
     left:
-      content: '{part-title}'
+      content: '{part-title}' " | " '{chapter-title}'
     right:
-      content: '{chapter-title}'
+      content: '{page-number}'
   verso:
-    center:
-      content: '{page-number}'
     left:
-      content: '{part-title}'
+      content: '{part-title}' " | " '{chapter-title}'
     right:
-      content: '{chapter-title}'
+      content: '{page-number}'
       
