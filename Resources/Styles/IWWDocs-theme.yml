@@ -8,6 +8,8 @@ footer:
       content: '{page-number}'
     left:
       content: "test"
+    right:
+      content: ~
   verso:
     center:
       content: '{page-number}'
