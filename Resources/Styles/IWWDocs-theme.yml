@@ -7,13 +7,14 @@ footer:
     center:
       content: '{page-number}'
     left:
-      content: ~
+      content: '{part-title}'
     right:
-      content: '{document-subtitle}'
+      content: '{chapter-title}'
   verso:
     center:
       content: '{page-number}'
     left:
-      content: ~
+      content: '{part-title}'
     right:
-      content: '{document-subtitle}'
+      content: '{chapter-title}'
+      
