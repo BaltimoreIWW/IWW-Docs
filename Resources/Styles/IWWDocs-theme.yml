@@ -19,7 +19,7 @@ header:
   height: $base_line_height_length * 2.5
   line_height: 1
   padding: [$base_line_height_length / 2, 1, 0, 1]
-  vertical_align: top
+  vertical_align: bottom
   recto:
     left:
       content: '{document-title}'
