@@ -5,9 +5,13 @@ heading-h1:
 footer:
   columns: =100%
   recto:
+    left:
+      content: "test"
     center:
       content: '{page-number}'
   verso:
+    left:
+      content: "test"
     center:
       content: '{page-number}'
 
