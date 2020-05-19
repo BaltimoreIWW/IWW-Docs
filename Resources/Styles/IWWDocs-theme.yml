@@ -22,7 +22,7 @@ header:
   vertical_align: bottom
   recto:
     left:
-      content: '{document-title}'
+      content: "INDUSTRIAL WORKERS OF THE WORLD"
   verso:
     left:
-      content: '{document-title}'
+      content: "INDUSTRIAL WORKERS OF THE WORLD"
