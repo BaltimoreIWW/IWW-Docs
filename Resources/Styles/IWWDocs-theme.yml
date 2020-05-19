@@ -15,5 +15,9 @@ footer:
       content: '{page-number}'
 header:
   height: 0.75in
+  recto:
+    left:
+      content: '{doc-title}'
+  verso:
     left:
       content: '{doc-title}'
