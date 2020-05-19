@@ -2,4 +2,12 @@ extends: default
 heading-h1:
   align: center
   margin-bottom: 0.5in
-  
+footer:
+  columns: =100%
+  recto:
+    center:
+      content: '{page-number}'
+  verso:
+    center:
+      content: '{page-number}'
+
