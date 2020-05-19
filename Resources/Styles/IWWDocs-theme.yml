@@ -18,7 +18,7 @@ header:
   border_width: 0.25
   height: $base_line_height_length * 2.5
   line_height: 1
-  padding: [$base_line_height_length / 2, 1, 0, 1]
+  padding: [$base_line_height_length / 0, 1, 2, 1]
   vertical_align: bottom
   recto:
     left:
