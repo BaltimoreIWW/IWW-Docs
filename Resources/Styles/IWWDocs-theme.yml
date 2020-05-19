@@ -13,4 +13,7 @@ footer:
       content: '{part-title} | {chapter-title}'
     right:
       content: '{page-number}'
-      
+header:
+  height: 0.75in
+    left:
+      content: '{doc-title}'
