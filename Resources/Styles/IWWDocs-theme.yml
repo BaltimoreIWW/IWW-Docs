@@ -6,12 +6,12 @@ footer:
   columns: =100%
   recto:
     left:
-      content: "test"
+      content: '{page-number}'
     center:
       content: '{page-number}'
   verso:
     left:
-      content: "test"
+      content: '{page-number}'
     center:
       content: '{page-number}'
 
