@@ -17,7 +17,7 @@ header:
   height: 0.75in
   recto:
     left:
-      content: '{doc-title}'
+      content: "test"
   verso:
     left:
-      content: '{doc-title}'
+      content: "test"
