@@ -22,7 +22,7 @@ header:
   vertical_align: bottom
   recto:
     left:
-      content: "IWW CONSTITUTION & BYLAWS"
+      content: '{document-title}'
   verso:
     left:
-      content: "IWW CONSTITUTION & BYLAWS"
+      content: '{document-title}'
