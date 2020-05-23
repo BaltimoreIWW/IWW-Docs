@@ -1,0 +1,28 @@
+extends: default
+heading-h1:
+  align: center
+  margin-bottom: 0.5in
+footer:
+  recto:
+    left:
+      content: '{chapter-title}'
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{chapter-title}'
+    right:
+      content: '{page-number}'
+header:
+  border_color: dddddd
+  border_width: 0.25
+  height: $base_line_height_length * 2.5
+  line_height: 1
+  padding: [$base_line_height_length / 0, 1, 2, 1]
+  vertical_align: bottom
+  recto:
+    left:
+      content: '{document-title}'
+  verso:
+    left:
+      content: '{document-title}'
