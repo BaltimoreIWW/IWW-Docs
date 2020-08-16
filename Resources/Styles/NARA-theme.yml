@@ -3,7 +3,7 @@ heading-h1:
   align: center
   margin-bottom: 0.5in
 footer:
-  font-size: 8
+  font-size: 7.5
   recto:
     left:
       content: '{part-title} | {chapter-title}'
